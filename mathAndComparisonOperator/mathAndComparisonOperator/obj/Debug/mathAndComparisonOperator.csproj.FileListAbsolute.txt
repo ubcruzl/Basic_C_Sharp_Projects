@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\mathAndComparisonOperator\mathAndComparisonOperator\bin\Debug\mathAndComparisonOperator.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\mathAndComparisonOperator\mathAndComparisonOperator\bin\Debug\mathAndComparisonOperator.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\mathAndComparisonOperator\mathAndComparisonOperator\bin\Debug\mathAndComparisonOperator.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\mathAndComparisonOperator\mathAndComparisonOperator\obj\Debug\mathAndComparisonOperator.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\mathAndComparisonOperator\mathAndComparisonOperator\obj\Debug\mathAndComparisonOperator.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\mathAndComparisonOperator\mathAndComparisonOperator\obj\Debug\mathAndComparisonOperator.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\mathAndComparisonOperator\mathAndComparisonOperator\obj\Debug\mathAndComparisonOperator.pdb
