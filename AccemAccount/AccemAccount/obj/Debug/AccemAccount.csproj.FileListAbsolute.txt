@@ -1,0 +1,6 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C#_Programs\AccemAccount\AccemAccount\bin\Debug\AccemAccount.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C#_Programs\AccemAccount\AccemAccount\bin\Debug\AccemAccount.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C#_Programs\AccemAccount\AccemAccount\bin\Debug\AccemAccount.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C#_Programs\AccemAccount\AccemAccount\obj\Debug\AccemAccount.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C#_Programs\AccemAccount\AccemAccount\obj\Debug\AccemAccount.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C#_Programs\AccemAccount\AccemAccount\obj\Debug\AccemAccount.pdb
