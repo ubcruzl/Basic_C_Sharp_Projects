@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ArrayAndList\ArrayAndList\bin\Debug\ArrayAndList.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ArrayAndList\ArrayAndList\bin\Debug\ArrayAndList.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ArrayAndList\ArrayAndList\bin\Debug\ArrayAndList.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.csproj.AssemblyReference.cache
