@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\IterateThroughArray\IterateThroughArray\bin\Debug\IterateThroughArray.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\IterateThroughArray\IterateThroughArray\bin\Debug\IterateThroughArray.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\IterateThroughArray\IterateThroughArray\bin\Debug\IterateThroughArray.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.pdb
