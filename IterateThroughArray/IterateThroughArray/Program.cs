@@ -30,7 +30,9 @@ class Program
                 case 1:
                     //CONSOLE APP PART ONE ASSIGNMENT
                     //A one-dimensional array of strings.
-                    string[] arraystring = {"0", "1 ", "2 ", "3 ", "4 ", "5 ", "6 ", "7 ", "8 ","9 "}; ;
+                    Console.WriteLine("CONSOLE APP PART ONE ASSIGNMENT");
+                    string[] arraystring = {"string 0 ", "string1 ", "string 2 ", "string 3 ", "string 4 ", "string 5 ", "string 6 ", "string 7 ", "string 8 ", "string 9 " };
+                    Console.WriteLine("You have an array string: [\"string 0 \", \"string1 \", \"string 2 \", \"string 3 \", \"string 4 \", \"string 5 \", \"string 6 \", \"string 7 \", \"string 8 \", \"string 9 \"]");
                     Console.WriteLine("\nPlease, input some text: ejem. Hello World, today is...");
                     //
                     sentence = Console.ReadLine();      //Ask the user to input some text.
@@ -39,23 +41,26 @@ class Program
                     for (int i =0; i<arraystring.Length;i++)        //loop foreach
                     {
                         //adds the user's text input to the end of each string
-                        if (sentenceList.Length>i)      //branch validates that the words entered by the user are sufficient to continue adding them to the array
-                        {
-                            arraystring[i] = arraystring[i] + sentenceList[i];  //update each array element by appending the user's text
-                        }
-                        else
-                        {
-                            arraystring[i] = arraystring[i] + "null";   //update each array element by appending  text null
-                        }
+                        //if (sentenceList.Length>i)      //branch validates that the words entered by the user are sufficient to continue adding them to the array
+                        //{
+                            arraystring[i] = arraystring[i] + sentenceList[i% sentenceList.Length];  //update each array element by appending the user's text
+                        //}
+                        //else
+                        //{
+                        //    arraystring[i] = arraystring[i] + "null";   //update each array element by appending  text null
+                        //}
                     }
                     foreach(string word in arraystring)
                     {
-                        Console.WriteLine("Array element: "+ word);
+                        Console.WriteLine(word);
                     }
                     arraystring = sentence.Split(' ');
                     break;
                 case 2:
+                    //CONSOLE APP PART TWO ASSIGNMENT
                     bool loop = true;
+                    Console.WriteLine("CONSOLE APP PART TWO ASSIGNMENT.");
+                    Console.WriteLine("cycle that exits when your computer is at 30 seconds.");
                     while (loop)
                     {
                         //
@@ -70,13 +75,14 @@ class Program
                     break;
                 case 3:
                     //CONSOLE APP PART THREE ASSIGNMENT
-                    // loop where the comparison, whether to continue iterating the loop is a “<”
-
-                    List<double> doubleList = new List<double>();
                     
-                    for(int j = 0; j < 20; j++)
+                    Console.WriteLine("CONSOLE APP PART THREE ASSIGNMENT");
+                    Console.WriteLine("CONSOLE APP PART THREE ASSIGNMENT");
+                    List<double> doubleList = new List<double>();       //list 
+                    // loop where the comparison, whether to continue iterating the loop is a “<”
+                    for (int j = 0; j < 20; j++)
                     {
-                        doubleList.Add(Math.Pow(2,j));
+                        doubleList.Add(Math.Pow(2,j));          //add elements to list
                     }
                     foreach (int number in doubleList)
                     {
@@ -93,6 +99,8 @@ class Program
                 case 4:
                     //CONSOLE APP PART FOUR ASSIGNMENT
                     //A list of strings where each item in the list is unique.
+                    Console.WriteLine("CONSOLE APP PART FOUR ASSIGNMENT");
+
                     string[] colors = { "yellow", "blue", "black", "white", "red", "pink", "purple", "marrow" };
                     Console.WriteLine("Option colors \"yellow\", \"blue\", \"black\", \"white\", \"red\", \"pink\", \"purple\", \"marrow\" ");
                     Console.WriteLine("input text to search for in the list COLOR");
@@ -119,6 +127,7 @@ class Program
                 case 5:
                     //CONSOLE APP PART FIVE ASSIGNMENT
                     //A list of strings where each item in the list is unique.
+                    Console.WriteLine("CONSOLE APP PART FOUR ASSIGNMENT");
                     string[] colors5 = { "yellow", "blue", "black", "white", "red", "pink", "purple", "marrow", "dark","ligth","blue"};
                     Console.WriteLine("input text to search for in the list COLOR");
                     Console.WriteLine("Coloroptions array: \"yellow\", \"blue\", \"black\", \"white\", \"red\", \"pink\", \"purple\", \"marrow\", \"dark\",\"ligth\",\"blue\"");
@@ -153,30 +162,32 @@ class Program
                     break;
                 case 6:
                     //CONSOLE APP PART SIX SUBMISSION ASSIGNMENT
+                    Console.WriteLine("CONSOLE APP PART FOUR ASSIGNMENT.");
                     //Create a list of strings that has at least two identical strings in the list.
-                    string[] colors6 = { "yellow", "blue", "black", "white", "red", "pink", "purple", "marrow", "dark", "ligth", "blue" };
+                    string[] colors6 = { "yellow", "blue", "black", "white", "red", "pink", "red", "purple", "marrow", "dark", "ligth", "blue", "black", "yellow"};
                     int idx = 0;
                     int? indx = null;
-                    Console.WriteLine("option colors \"yellow\", \"blue\", \"black\", \"white\", \"red\", \"pink\", \"purple\", \"marrow\", \"dark\", \"ligth\", \"blue\" ");
+                    Console.WriteLine("option colors \"yellow\", \"blue\", \"black\", \"white\", \"red\", \"pink\", \"red\", \"purple\", \"marrow\", \"dark\", \"ligth\", \"blue\", \"black\", \"yellow\" ");
                     //foreach loop that evaluates each item in the list
                     foreach (string color6_a in colors6)
                     {
-                        idx++;
-                        for (int i= idx; i< colors6.Length; i++)
+                        for (int i= 0; i<idx; i++)
                         {
                             if (color6_a== colors6[i])
                             {
                                 indx = i;
                             }
                         }
+                        
                         if (indx != null) //and displays a message showing the string and whether or not it has already appeared in the list.
                         {
-                            Console.WriteLine("the color "+ color6_a+"  has already appeared in the list");
+                            Console.WriteLine("the color "+ color6_a+"  HAS ALREADY appeared in the list");
                         }
                         else
                         {
                             Console.WriteLine("the color " + color6_a + " not it has already appeared in the list");
                         }
+                        idx++;
                         indx = null;
                     }
                     break;
