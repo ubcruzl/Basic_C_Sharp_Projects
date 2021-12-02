@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * SIX-PART ASSIGNMENT
+ * 
+ */
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -18,7 +22,8 @@ class Program
             Console.WriteLine("3. CONSOLE APP PART THREE ASSIGNMENT");
             Console.WriteLine("4. CONSOLE APP PART FOUR ASSIGNMENT");
             Console.WriteLine("5. CONSOLE APP PART FIVE ASSIGNMENT");
-            Console.WriteLine("6. EXIT ASSIGNMENT");
+            Console.WriteLine("6. CONSOLE APP PART SIX SUBMISSION ASSIGNMENT");
+            Console.WriteLine("7. EXIT ASSIGNMENT");
             menu = int.Parse(Console.ReadLine());
             switch (menu)
             {
@@ -89,12 +94,13 @@ class Program
                     //CONSOLE APP PART FOUR ASSIGNMENT
                     //A list of strings where each item in the list is unique.
                     string[] colors = { "yellow", "blue", "black", "white", "red", "pink", "purple", "marrow" };
+                    Console.WriteLine("Option colors \"yellow\", \"blue\", \"black\", \"white\", \"red\", \"pink\", \"purple\", \"marrow\" ");
                     Console.WriteLine("input text to search for in the list COLOR");
                     string color= Console.ReadLine();       //Ask the user to input text to search for in the list
                     int? index=null;
                     for (int i=0; i< colors.Length; i++ )
                     {
-                        Console.WriteLine("itera: "+ i);
+                        //Console.WriteLine("itera: "+ i);
                         if (colors[i] == color)          
                         {
                             index = i;
@@ -115,11 +121,12 @@ class Program
                     //A list of strings where each item in the list is unique.
                     string[] colors5 = { "yellow", "blue", "black", "white", "red", "pink", "purple", "marrow", "dark","ligth","blue"};
                     Console.WriteLine("input text to search for in the list COLOR");
+                    Console.WriteLine("Coloroptions array: \"yellow\", \"blue\", \"black\", \"white\", \"red\", \"pink\", \"purple\", \"marrow\", \"dark\",\"ligth\",\"blue\"");
                     string color5 = Console.ReadLine();       //Ask the user to input text to search for in the list
                     List<int> intList = new List<int>();
                     for (int i = 0; i < colors5.Length; i++)
                     {
-                        Console.WriteLine("itera: " + i);
+                        //Console.WriteLine("itera: " + i);
                         if (colors5[i] == color5)
                         {
                             intList.Add(i);
@@ -150,6 +157,7 @@ class Program
                     string[] colors6 = { "yellow", "blue", "black", "white", "red", "pink", "purple", "marrow", "dark", "ligth", "blue" };
                     int idx = 0;
                     int? indx = null;
+                    Console.WriteLine("option colors \"yellow\", \"blue\", \"black\", \"white\", \"red\", \"pink\", \"purple\", \"marrow\", \"dark\", \"ligth\", \"blue\" ");
                     //foreach loop that evaluates each item in the list
                     foreach (string color6_a in colors6)
                     {
@@ -172,7 +180,9 @@ class Program
                         indx = null;
                     }
                     break;
-                    
+                case 7:
+                    //Console.WriteLine("Presione any key to finish...");
+                    break;
                 default:
                     Console.WriteLine("Enter a menu option");
                     break;
@@ -180,7 +190,7 @@ class Program
             Console.WriteLine("\nInput any key to continue");
             Console.ReadLine();
             //Console.Clear();
-        } while (menu != 6);
+        } while (menu != 7);
         
     }
 }
