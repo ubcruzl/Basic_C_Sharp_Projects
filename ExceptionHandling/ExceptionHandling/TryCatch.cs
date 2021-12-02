@@ -44,7 +44,12 @@ class TryCatch
             {
                 Console.WriteLine(ex.Message+ " the program will restart automatically...");
             }
-
+            //print a message to the display to let you know the program has emerged from the try/catch block
+            //and continued on with program execution.
+            finally
+            {
+                Console.WriteLine("The program has emerged from the try/catch block and continued on with program execution");
+            }
         } while (option);
     }
 }
