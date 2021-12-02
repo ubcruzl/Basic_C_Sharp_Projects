@@ -58,10 +58,10 @@ class Program
                     break;
                 case 2:
                     //CONSOLE APP PART TWO ASSIGNMENT
-                    bool loop = true;
                     Console.WriteLine("CONSOLE APP PART TWO ASSIGNMENT.");
+                    bool loop = true;
                     Console.WriteLine("cycle that exits when your computer is at 30 seconds.");
-                    while (loop)
+                    while (loop)    //LOOP INFINITE
                     {
                         //
                         Console.WriteLine(" Today is " + DateTime.Now + "  Loop finish second 30 or Ctr + c to break infinite loop ");
@@ -75,8 +75,6 @@ class Program
                     break;
                 case 3:
                     //CONSOLE APP PART THREE ASSIGNMENT
-                    
-                    Console.WriteLine("CONSOLE APP PART THREE ASSIGNMENT");
                     Console.WriteLine("CONSOLE APP PART THREE ASSIGNMENT");
                     List<double> doubleList = new List<double>();       //list 
                     // loop where the comparison, whether to continue iterating the loop is a “<”
