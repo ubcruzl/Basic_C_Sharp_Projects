@@ -76,6 +76,7 @@ class Program
                 case 3:
                     //CONSOLE APP PART THREE ASSIGNMENT
                     Console.WriteLine("CONSOLE APP PART THREE ASSIGNMENT");
+                    Console.WriteLine("Create a list integers");
                     List<double> doubleList = new List<double>();       //list 
                     // loop where the comparison, whether to continue iterating the loop is a “<”
                     for (int j = 0; j < 20; j++)
@@ -87,6 +88,8 @@ class Program
 
                         Console.WriteLine(" “<” " + number);
                     }
+                    Console.WriteLine("Add a item to list integers");
+                    Console.WriteLine("Print numbers ");
                     //loop where the comparison is a “<=”
                     doubleList.Add(Math.Pow(2, 20));
                     for (int k = 0; k <= (doubleList.Count-1); k++)
