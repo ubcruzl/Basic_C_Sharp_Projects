@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\ClassObjects\bin\Debug\ClassObjects.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\ClassObjects\bin\Debug\ClassObjects.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\ClassObjects\bin\Debug\ClassObjects.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\ClassObjects\obj\Debug\ClassObjects.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\ClassObjects\obj\Debug\ClassObjects.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\ClassObjects\obj\Debug\ClassObjects.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\ClassObjects\obj\Debug\ClassObjects.pdb
