@@ -21,6 +21,8 @@ namespace MainMethodClassObj
             //instantiate the class and call the third method,
             Console.WriteLine("3. try method 3 passing in a string : " + num1.methodOne("100")); //passing in a string that equates to an integer
             Console.ReadLine();
+
+
         }
     }
 }

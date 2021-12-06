@@ -12,7 +12,6 @@ namespace MainMethodClassObj
         public int deciml { get; set; }
         //method that will take in an integer,
         //
-
         public int methodOne(int number) 
         {
             //create a math operation for this integer (addition, subtraction, etc.),
