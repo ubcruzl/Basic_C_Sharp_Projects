@@ -12,7 +12,7 @@ using System.Threading.Tasks;
         //
         //create a void method that takes two integers as parameters.
         //
-        public static void methodThree(int numberOne, int numberTwo) 
+        public void methodThree(int numberOne, int numberTwo) 
         {
             //Have the method do a math operation on the first integer and display the second integer to the screen
             Console.WriteLine("display the first integer to the screen: " + numberOne);

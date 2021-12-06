@@ -13,11 +13,13 @@ namespace MethodClassObjOverloading3
 
             //the Main() method of the console app, instantiate the class.
 
+            Numeros nums = new Numeros();   // instantiate the class Numeros.
+
             Console.WriteLine("\ntest method 3, specifying the parameters by name : ");
-            Numeros.methodThree(numberOne: 5, numberTwo: 3);         //Call the method in the class, specifying the parameters by name.
+            nums.methodThree(numberOne: 5, numberTwo: 3);         //Call the method in the class, specifying the parameters by name.
 
             Console.WriteLine("\ntest method 3, specifying the parameters by name, diferent order : ");
-            Numeros.methodThree(numberTwo: 3, numberOne: 5);        //Call the method in the class, specifying the parameters by name.
+            nums.methodThree(numberTwo: 3, numberOne: 5);        //Call the method in the class, specifying the parameters by name.
 
             Console.ReadLine();
         }
