@@ -1,0 +1,6 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.pdb

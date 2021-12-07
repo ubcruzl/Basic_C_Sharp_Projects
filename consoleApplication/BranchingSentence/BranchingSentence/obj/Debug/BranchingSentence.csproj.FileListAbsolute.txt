@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\BranchingSentence\BranchingSentence\bin\Debug\BranchingSentence.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\BranchingSentence\BranchingSentence\bin\Debug\BranchingSentence.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\BranchingSentence\BranchingSentence\bin\Debug\BranchingSentence.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\BranchingSentence\BranchingSentence\obj\Debug\BranchingSentence.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\BranchingSentence\BranchingSentence\obj\Debug\BranchingSentence.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\BranchingSentence\BranchingSentence\obj\Debug\BranchingSentence.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\BranchingSentence\BranchingSentence\obj\Debug\BranchingSentence.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\StringFunction\StringFunction\obj\Debug\StringFunction.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\StringFunction\StringFunction\obj\Debug\StringFunction.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\StringFunction\StringFunction\bin\Debug\StringFunction.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\StringFunction\StringFunction\bin\Debug\StringFunction.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\StringFunction\StringFunction\bin\Debug\StringFunction.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\StringFunction\StringFunction\obj\Debug\StringFunction.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\StringFunction\StringFunction\obj\Debug\StringFunction.pdb

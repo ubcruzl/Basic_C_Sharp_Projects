@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\consoleApplication\bin\Debug\consoleApplication.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\consoleApplication\bin\Debug\consoleApplication.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\consoleApplication\bin\Debug\consoleApplication.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\consoleApplication\obj\Debug\consoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\consoleApplication\obj\Debug\consoleApplication.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\consoleApplication\obj\Debug\consoleApplication.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\consoleApplication\obj\Debug\consoleApplication.csproj.AssemblyReference.cache
