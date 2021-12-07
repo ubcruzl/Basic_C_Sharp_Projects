@@ -1,0 +1,14 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneBehavior\TwentyOneBehavior\bin\Debug\TwentyOneBehavior.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneBehavior\TwentyOneBehavior\bin\Debug\TwentyOneBehavior.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneBehavior\TwentyOneBehavior\bin\Debug\TwentyOneBehavior.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneBehavior\TwentyOneBehavior\obj\Debug\TwentyOneBehavior.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneBehavior\TwentyOneBehavior\obj\Debug\TwentyOneBehavior.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneBehavior\TwentyOneBehavior\obj\Debug\TwentyOneBehavior.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneBehavior\TwentyOneBehavior\obj\Debug\TwentyOneBehavior.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneBehavior\TwentyOneBehavior\bin\Debug\TwentyOneBehavior.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneBehavior\TwentyOneBehavior\bin\Debug\TwentyOneBehavior.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneBehavior\TwentyOneBehavior\bin\Debug\TwentyOneBehavior.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneBehavior\TwentyOneBehavior\obj\Debug\TwentyOneBehavior.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneBehavior\TwentyOneBehavior\obj\Debug\TwentyOneBehavior.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneBehavior\TwentyOneBehavior\obj\Debug\TwentyOneBehavior.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneBehavior\TwentyOneBehavior\obj\Debug\TwentyOneBehavior.pdb

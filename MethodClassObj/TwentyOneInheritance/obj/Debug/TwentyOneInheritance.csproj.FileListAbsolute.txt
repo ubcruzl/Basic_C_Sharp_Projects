@@ -1,0 +1,14 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\TwentyOneInheritance\bin\Debug\TwentyOneInheritance.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\TwentyOneInheritance\bin\Debug\TwentyOneInheritance.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\TwentyOneInheritance\bin\Debug\TwentyOneInheritance.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\ClassObjects\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneInheritance\bin\Debug\TwentyOneInheritance.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneInheritance\bin\Debug\TwentyOneInheritance.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneInheritance\bin\Debug\TwentyOneInheritance.pdb
