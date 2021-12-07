@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPerson\bin\Debug\ClassPerson.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPerson\bin\Debug\ClassPerson.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPerson\bin\Debug\ClassPerson.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPerson\obj\Debug\ClassPerson.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPerson\obj\Debug\ClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPerson\obj\Debug\ClassPerson.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPerson\obj\Debug\ClassPerson.pdb
