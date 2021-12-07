@@ -21,6 +21,16 @@ namespace MethodClassObjOverloading3
             Console.WriteLine("\ntest method 3, specifying the parameters by name, diferent order : ");
             nums.methodThree(numberTwo: 3, numberOne: 5);        //Call the method in the class, specifying the parameters by name.
 
+            /****************************************************************/
+            //complete step 3
+            //call the method and pass in the two numbers without calling them by name
+            Console.WriteLine("\n\ncall the method and pass in the two numbers without calling them by name");
+            Console.WriteLine("methodThree(3, 5)");
+            nums.methodThree(3, 5);
+            Console.WriteLine("methodThree(5, 3)");
+            nums.methodThree(5, 3);
+
+
             Console.ReadLine();
         }
     }
