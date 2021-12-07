@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassOperatorOverloadingPerson\bin\Debug\ClassOperatorOverloadingPerson.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassOperatorOverloadingPerson\bin\Debug\ClassOperatorOverloadingPerson.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassOperatorOverloadingPerson\bin\Debug\ClassOperatorOverloadingPerson.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassOperatorOverloadingPerson\obj\Debug\ClassOperatorOverloadingPerson.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassOperatorOverloadingPerson\obj\Debug\ClassOperatorOverloadingPerson.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassOperatorOverloadingPerson\obj\Debug\ClassOperatorOverloadingPerson.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassOperatorOverloadingPerson\obj\Debug\ClassOperatorOverloadingPerson.csproj.AssemblyReference.cache
