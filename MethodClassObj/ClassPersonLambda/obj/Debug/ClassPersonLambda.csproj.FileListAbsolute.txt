@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonLambda\bin\Debug\ClassPersonLambda.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonLambda\bin\Debug\ClassPersonLambda.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonLambda\bin\Debug\ClassPersonLambda.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonLambda\obj\Debug\ClassPersonLambda.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonLambda\obj\Debug\ClassPersonLambda.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonLambda\obj\Debug\ClassPersonLambda.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonLambda\obj\Debug\ClassPersonLambda.pdb
