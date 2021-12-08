@@ -1,0 +1,6 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ConsoleAppStruct\bin\Debug\ConsoleAppStruct.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ConsoleAppStruct\bin\Debug\ConsoleAppStruct.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ConsoleAppStruct\bin\Debug\ConsoleAppStruct.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ConsoleAppStruct\obj\Debug\ConsoleAppStruct.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ConsoleAppStruct\obj\Debug\ConsoleAppStruct.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ConsoleAppStruct\obj\Debug\ConsoleAppStruct.pdb
