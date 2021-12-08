@@ -49,10 +49,18 @@ namespace ClassPersonLambda
             //Perform the same action again, but this time with a lambda expression.
 
             List<Employee> employeesJoeLambda = new List<Employee>();
-            employeesJoeLambda=employeesOne.Where(x =>x.FirstName== "Joe").ToList();
+            employeesJoeLambda=employeesOne.Where(x =>x.FirstName== "Joe").ToList();        //Using a lambda expression
 
             Console.WriteLine("\nList employeesJoeLambda: \n");
             employeesJoeLambda.ForEach(emply => Console.WriteLine(emply.Id + " " + emply.FirstName + " " + emply.LastName));
+
+            //////////////////////////////////////////////////////////////////////////////
+            //Using a lambda expression, make a list of all employees with an Id number greater than 5.
+            List<Employee> employeesJoeLambdaGrate5= new List<Employee>();
+            employeesJoeLambdaGrate5=employeesOne.Where(x => x.Id >5).ToList();           //Using a lambda expression 
+
+            Console.WriteLine("\nList employeesJoeLambda with an Id number greater than 5: \n");
+            employeesJoeLambdaGrate5.ForEach(emply => Console.WriteLine(emply.Id + " " + emply.FirstName + " " + emply.LastName));
 
             Console.ReadLine();
         }
