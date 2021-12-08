@@ -14,8 +14,6 @@ namespace ClassPolymorphismPerson
         public string lastName { get; set; }
         //method SayName().
 
-
-        
         public virtual void SayName()
         {
             //simply writes the person's full name to the console in the format of: “Name: [full name]”

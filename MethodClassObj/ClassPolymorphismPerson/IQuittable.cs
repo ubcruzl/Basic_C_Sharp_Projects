@@ -10,7 +10,7 @@ namespace ClassPolymorphismPerson
     interface IQuittable
     {
         //have it define a void method called Quit().
-
-        void Quit(); 
+        //void Quit();
+        void Quit(IQuittable quittable);
     }
 }

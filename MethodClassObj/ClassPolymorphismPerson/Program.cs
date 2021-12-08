@@ -17,8 +17,15 @@ namespace ClassPolymorphismPerson
             //Call the SayName() method on the object.
             emply.SayName();
 
-            //Use polymorphism to create an object of type IQuittable and call the Quit() method on it.
-            emply.Quit();
+            //call the Quit() method on it. Hint: an object can be of an interface type if it implements that specific interface.
+
+            //
+            IQuittable emplQryl = new Employee();   // create an object of type IQuittable 
+
+            ((Employee)emplQryl).firstName = "Sample";
+            ((Employee)emplQryl).lastName = "Student";
+
+            emplQryl.Quit(emplQryl);    //call the Quit() method on it.
             Console.ReadLine();
 
         }
