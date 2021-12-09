@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppDateTime\bin\Debug\ConsoleAppDateTime.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppDateTime\bin\Debug\ConsoleAppDateTime.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppDateTime\bin\Debug\ConsoleAppDateTime.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppDateTime\obj\Debug\ConsoleAppDateTime.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppDateTime\obj\Debug\ConsoleAppDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppDateTime\obj\Debug\ConsoleAppDateTime.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppDateTime\obj\Debug\ConsoleAppDateTime.pdb
