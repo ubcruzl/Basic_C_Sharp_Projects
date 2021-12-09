@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppConstructor\bin\Debug\ConsoleAppConstructor.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppConstructor\bin\Debug\ConsoleAppConstructor.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppConstructor\bin\Debug\ConsoleAppConstructor.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppConstructor\obj\Debug\ConsoleAppConstructor.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppConstructor\obj\Debug\ConsoleAppConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppConstructor\obj\Debug\ConsoleAppConstructor.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppConstructor\obj\Debug\ConsoleAppConstructor.pdb
