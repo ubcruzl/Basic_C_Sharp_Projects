@@ -1,0 +1,6 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppTryCatch\bin\Debug\ConsoleAppTryCatch.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppTryCatch\bin\Debug\ConsoleAppTryCatch.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppTryCatch\bin\Debug\ConsoleAppTryCatch.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppTryCatch\obj\Debug\ConsoleAppTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppTryCatch\obj\Debug\ConsoleAppTryCatch.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppTryCatch\obj\Debug\ConsoleAppTryCatch.pdb
