@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ubaldo\\Documents\\GitHub\\VisualStudio\\Basic_C_Sharp_Projects\\WebApplication\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ubaldo\\Documents\\GitHub\\VisualStudio\\Basic_C_Sharp_Projects\\WebApplication\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ubaldo\\Documents\\GitHub\\VisualStudio\\Basic_C_Sharp_Projects\\WebApplication\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
+        "projectName": "WebApplicationCore",
+        "projectPath": "C:\\Users\\Ubaldo\\Documents\\GitHub\\VisualStudio\\Basic_C_Sharp_Projects\\WebApplication\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\Ubaldo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ubaldo\\Documents\\GitHub\\VisualStudio\\Basic_C_Sharp_Projects\\WebApplication\\WebApplicationCore\\WebApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ubaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

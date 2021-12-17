@@ -156,7 +156,7 @@ namespace CarInsurance.Controllers
             {
                 quote = baseQuote + 100;
             }
-            else if (age > 18 && age < 25)  //If the user is between 19 and 25, add $50 to the monthly total.
+            else if (age > 18 && age <= 25)  //If the user is between 19 and 25, add $50 to the monthly total.
             {
                 quote = baseQuote + 50;
             }

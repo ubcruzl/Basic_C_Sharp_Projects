@@ -50,6 +50,7 @@ namespace ClassPersonLambda
 
             List<Employee> employeesJoeLambda = new List<Employee>();
             employeesJoeLambda=employeesOne.Where(x =>x.FirstName== "Joe").ToList();        //Using a lambda expression
+            //employeesJoeLambda = employeesOne.Select(x => x.FirstName == "Joe").ToList(); ;
 
             Console.WriteLine("\nList employeesJoeLambda: \n");
             employeesJoeLambda.ForEach(emply => Console.WriteLine(emply.Id + " " + emply.FirstName + " " + emply.LastName));

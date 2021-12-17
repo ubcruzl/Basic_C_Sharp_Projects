@@ -1,0 +1,6 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneAbstract\bin\Debug\TwentyOneAbstract.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneAbstract\bin\Debug\TwentyOneAbstract.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneAbstract\bin\Debug\TwentyOneAbstract.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneAbstract\obj\Debug\TwentyOneAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneAbstract\obj\Debug\TwentyOneAbstract.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneAbstract\obj\Debug\TwentyOneAbstract.pdb

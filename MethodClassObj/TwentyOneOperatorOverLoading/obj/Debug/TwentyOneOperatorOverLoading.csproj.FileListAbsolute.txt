@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneOperatorOverLoading\bin\Debug\TwentyOneOperatorOverLoading.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneOperatorOverLoading\bin\Debug\TwentyOneOperatorOverLoading.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneOperatorOverLoading\bin\Debug\TwentyOneOperatorOverLoading.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneOperatorOverLoading\obj\Debug\TwentyOneOperatorOverLoading.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneOperatorOverLoading\obj\Debug\TwentyOneOperatorOverLoading.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneOperatorOverLoading\obj\Debug\TwentyOneOperatorOverLoading.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneOperatorOverLoading\obj\Debug\TwentyOneOperatorOverLoading.pdb

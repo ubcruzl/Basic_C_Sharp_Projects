@@ -1,0 +1,7 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneEnum\bin\Debug\TwentyOneEnum.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneEnum\bin\Debug\TwentyOneEnum.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneEnum\bin\Debug\TwentyOneEnum.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneEnum\obj\Debug\TwentyOneEnum.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneEnum\obj\Debug\TwentyOneEnum.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneEnum\obj\Debug\TwentyOneEnum.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\TwentyOneEnum\obj\Debug\TwentyOneEnum.csproj.AssemblyReference.cache

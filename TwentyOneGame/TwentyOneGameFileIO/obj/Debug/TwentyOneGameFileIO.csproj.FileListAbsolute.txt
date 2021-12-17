@@ -1,0 +1,10 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneGame\TwentyOneGameFileIO\obj\Debug\TwentyOneGameFileIO.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneGame\TwentyOneGameFileIO\obj\Debug\TwentyOneGameFileIO.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneGame\TwentyOneGameFileIO\bin\Debug\TwentyOneGameFileIO.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneGame\TwentyOneGameFileIO\bin\Debug\TwentyOneGameFileIO.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneGame\TwentyOneGameFileIO\bin\Debug\TwentyOneGameFileIO.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneGame\TwentyOneGameFileIO\bin\Debug\Casino.dll
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneGame\TwentyOneGameFileIO\bin\Debug\Casino.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneGame\TwentyOneGameFileIO\obj\Debug\TwentyOneGameFileIO.csproj.CopyComplete
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneGame\TwentyOneGameFileIO\obj\Debug\TwentyOneGameFileIO.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\TwentyOneGame\TwentyOneGameFileIO\obj\Debug\TwentyOneGameFileIO.pdb

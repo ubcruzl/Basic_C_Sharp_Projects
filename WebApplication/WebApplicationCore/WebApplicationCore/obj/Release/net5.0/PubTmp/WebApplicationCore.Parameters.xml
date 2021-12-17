@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebApplicationCore20211216115558" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Ubaldo\\Documents\\GitHub\\VisualStudio\\Basic_C_Sharp_Projects\\WebApplication\\WebApplicationCore\\WebApplicationCore\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,14 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\bin\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\bin\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.deps.json
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\bin\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.runtimeconfig.json
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\bin\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.runtimeconfig.dev.json
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\bin\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.dll
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\bin\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\obj\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.csproj.AssemblyReference.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\obj\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\obj\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.AssemblyInfoInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\obj\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.AssemblyInfo.cs
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\obj\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\obj\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.dll
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\obj\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\consoleApplication\ConsoleAppInputAssgnmt\obj\Debug\netcoreapp3.1\ConsoleAppInputAssgnmt.genruntimeconfig.cache

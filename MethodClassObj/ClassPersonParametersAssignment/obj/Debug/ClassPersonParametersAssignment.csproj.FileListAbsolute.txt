@@ -1,0 +1,6 @@
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonParametersAssignment\bin\Debug\ClassPersonParametersAssignment.exe.config
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonParametersAssignment\bin\Debug\ClassPersonParametersAssignment.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonParametersAssignment\bin\Debug\ClassPersonParametersAssignment.pdb
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonParametersAssignment\obj\Debug\ClassPersonParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonParametersAssignment\obj\Debug\ClassPersonParametersAssignment.exe
+C:\Users\Ubaldo\Documents\GitHub\VisualStudio\Basic_C_Sharp_Projects\MethodClassObj\ClassPersonParametersAssignment\obj\Debug\ClassPersonParametersAssignment.pdb
